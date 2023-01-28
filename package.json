@@ -2,10 +2,6 @@
     "name": "Rapid",
     "version": "1.0.0",
     "description": "",
-    "scripts": {
-        "build": "echo \"No build specified\" && exit 1",
-        "test": "echo \"No test specified\" && exit 1"
-    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/ilham88/Rapidleech-1.git"
